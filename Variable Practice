@@ -1,0 +1,8 @@
+let name = "Alex";
+let age = 15;
+const isAdult = "False";
+const FAVORITEARTISTS = ["XXXTentacion", "JuiceWrld", "Drake"];
+let me = {
+    myFirstName: "Alex", 
+    myLastName: "Banos"
+};
